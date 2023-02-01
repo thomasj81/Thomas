@@ -1,4 +1,4 @@
-ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
+#ignoreFiles = ["content/portfolio/\\.*","content/product/\\.*","content/sketch/\\.*","content/homepage/\\.*","content/post/\\.*","content/\\.*"] # disable example pages as this is a single page
 baseURL = "https://gohugo.io"
 title = "Hugo Themes"
 # author = "Steve Francia"
@@ -64,7 +64,7 @@ theme="flex-bp-hugo-cv"
   stackoverflow    = "" # User Number
   bitbucket        = ""
   jsfiddle         = ""
-  codepen          = ""
+  codepen          = "https://thomasj81.github.io/ThomasJamme/"
   # Visual Art Communities
   deviantart       = ""
   flickr           = ""
