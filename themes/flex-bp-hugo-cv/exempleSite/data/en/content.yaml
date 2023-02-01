@@ -19,7 +19,7 @@ PersonalData:
       Value: thomas.jamme05@gmail.com
     - Icon: fas fa-globe
       Name: Website
-      Value: ...
+      Value: https://thomasj81.github.io/ThomasJamme/
     - Icon: far fa-calendar-alt
       Name: Date of birth
       Value: 05/05/1998
@@ -136,3 +136,5 @@ Contacts2:
     - Icon: fas fa-envelope
       Name: Email
       Value: thomas.jamme05@gmail.com
+
+      

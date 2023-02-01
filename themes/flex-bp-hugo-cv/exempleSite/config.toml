@@ -64,7 +64,7 @@ theme="flex-bp-hugo-cv"
   stackoverflow    = "" # User Number
   bitbucket        = ""
   jsfiddle         = ""
-  codepen          = ""
+  codepen          = "https://thomasj81.github.io/ThomasJamme/"
   # Visual Art Communities
   deviantart       = ""
   flickr           = ""
