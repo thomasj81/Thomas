@@ -1,0 +1,138 @@
+PersonalData:
+  Title: Profil
+  Icon: fas fa-user
+  Suffix: "- CV"
+  Name: Thomas JAMME
+  CurrentWorkplace: Engineer Network & Security
+  Contacts:
+    - Icon: fas fa-user
+      Name: Name
+      Value: Thomas JAMME
+    - Icon: fas fa-map-marker-alt
+      Name: Address
+      Value: Chambéry 73
+    - Icon: fas fa-mobile-alt
+      Name: Phone
+      Value: 06 25 71 78 20
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: thomas.jamme05@gmail.com
+    - Icon: fas fa-globe
+      Name: Website
+      Value: ...
+    - Icon: far fa-calendar-alt
+      Name: Date of birth
+      Value: 05/05/1998
+
+BriefProfile:
+  Title: Qualities
+  Icon: fas fa-th-list
+  Sections:
+    
+    - Name: Skills
+      Items:
+        - Team work
+        - Spirit of initiative
+        - Adaptability
+        - Joviality
+        - Meaning of relational
+    
+
+Experience:
+  Title: Professional Experience
+  Icon: fas fa-briefcase
+  Sections:
+    - Name: Engineer Network & Security 
+      Empolyer: Capgemini 
+      Website: https://www.capgemini.com/fr-fr/
+      StartDate: 09/2021
+      EndDate: Today
+      Details:
+        - • Installation, configuration and evolution of IT infrastructure
+        - • Deployment, configuration of the antivirus
+      Skills: ["Le Bourget du Lac", "CDI", ]
+    - Name: Engineer Network
+      Empolyer: Capgemini 
+      Website: https://www.capgemini.com/fr-fr/
+      StartDate: 06/2020
+      EndDate: 09/2021
+      Details:
+        - • Management of the supervision of a computer park
+        - • Installation & configuration of network equipment
+        -
+      Skills: ["Le Bourget du Lac", "Internship",]
+    - Name: Technician Network SAV 
+      Empolyer: Orange Business Service
+      Website: https://www.orange-business.com/fr
+      StartDate: 06/2017
+      EndDate: 09/2017
+      Details:
+        - • Management / Maintenance / Inventory of a customer network fleet
+        - • Use of tools related to fault diagnosis
+      Skills: ["Blagnac", "Intership & interim"]
+
+Diplomas:
+  Title: Professional Skills
+  Icon: fas fa-road
+  Items:
+    - Firewall –  Fortinet, CheckPoint, ASA, F5
+    - Switch – Cisco, ExtremeNetwork, Huawei, IBM, InfiniBand, HP
+    - Antivirus – Trellix ePolicy Orchestrator (McAfee)
+    - Proxy – Symantec
+    - Syslog – FortiAnalyser, Splunk
+    - Virtualisation – VMware, Vcenter
+    - Administration system – Active Directory, Windows, Linux
+    - Programming language – Bash, PowerShell, C, C++, Web (HTML, CSS, PHP), Javascript
+   
+AcademicEducation:
+  Title: Academic Education
+  Icon: fas fa-university
+  Sections:
+    - Name: Master TRI – Telecommunications Networks Computing
+      Organisation: University Savoie Mont Blanc
+      Website: https://www.univ-smb.fr/
+      StartDate: 2018
+      EndDate: 2021
+      Qualification: Chambéry, 73
+    - Name: DUT R&T – Networks & Telecommunications
+      Organisation: University Toulouse Jean Jaurès
+      Website: https://www.iut-blagnac.fr/fr/formations/but-informatique
+      StartDate: 2016
+      EndDate: 2018
+      Qualification: Blagnac, 31
+    - Name: BAC Scientific – Engineering Sciences
+      Organisation: High School Louis Rascol
+      Website: https://louis-rascol.mon-ent-occitanie.fr/
+      StartDate: 2013
+      EndDate: 2016
+      Qualification: Albi, 73
+Languages:
+  Title: languages
+  Icon: fas fa-language
+  Items:
+    - French Native 
+    - English Technical 
+    - Spanish School 
+Interests:
+  Title: Interests
+  Icon: fas fa-chess
+  Items:
+    - Soccer – Badminton – Skiing
+    - Technology Monitoring
+    - Friendly moments
+Contacts2:
+  Title: Contact
+  Icon: fas fa-address-card
+  Contacts:
+    - Icon: fas fa-user
+      Name: Name
+      Value: Thomas JAMME
+    - Icon: fas fa-map-marker-alt
+      Name: Address
+      Value: Chambéry 73
+    - Icon: fas fa-mobile-alt
+      Name: Phone
+      Value: 06 25 71 78 20
+    - Icon: fas fa-envelope
+      Name: Email
+      Value: thomas.jamme05@gmail.com
