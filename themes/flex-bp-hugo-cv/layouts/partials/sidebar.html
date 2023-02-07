@@ -21,9 +21,9 @@
         {{ $data := (.Scratch.Get "content") }}
         <li><a href="#section-{{ $data.PersonalData.Title | urlize }}"><i class="{{ $data.PersonalData.Icon }}"></i> {{ $data.PersonalData.Title }}</a></li>
         <li><a href="#section-{{ $data.BriefProfile.Title | urlize }}"><i class="{{ $data.BriefProfile.Icon }}"></i> {{ $data.BriefProfile.Title }}</a></li>
-        <li><a href="#section-{{ $data.Diplomas.Title | urlize }}"><i class="{{ $data.Diplomas.Icon }}"></i> {{ $data.Diplomas.Title }}</a></li>
         <li><a href="#section-{{ $data.Experience.Title | urlize }}"><i class="{{ $data.Experience.Icon }}"></i> {{ $data.Experience.Title }}</a></li>
         <li><a href="#section-{{ $data.AcademicEducation.Title | urlize }}"><i class="{{ $data.AcademicEducation.Icon }}"></i> {{ $data.AcademicEducation.Title }}</a></li>
+        <li><a href="#section-{{ $data.Diplomas.Title | urlize }}"><i class="{{ $data.Diplomas.Icon }}"></i> {{ $data.Diplomas.Title }}</a></li>
         <li><a href="#section-{{ $data.Languages.Title | urlize }}"><i class="{{ $data.Languages.Icon }}"></i> {{ $data.Languages.Title }}</a></li>
         <li><a href="#section-{{ $data.Interests.Title | urlize }}"><i class="{{ $data.Interests.Icon }}"></i> {{ $data.Interests.Title }}</a></li>
         <li><a href="#section-{{ $data.Contacts2.Title | urlize }}"><i class="{{ $data.Contacts2.Icon }}"></i> {{ $data.Contacts2.Title }}</a></li>
